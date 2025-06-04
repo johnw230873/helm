@@ -1,2 +1,2 @@
-# hulm
-test a new hulm setup
+# helm
+test a new helm chart setup
