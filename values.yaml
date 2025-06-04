@@ -1,0 +1,9 @@
+host: example.com
+tlsSecret: example-tls-secret
+services:
+  exampleService:
+    name: example-service
+    port: 80
+  dummyService:
+    name: dummy-service
+    port: 80
